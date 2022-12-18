@@ -41,4 +41,9 @@ button {
     font-size: 18px;
     border: none;
     border-radius: 50px;
+    transition: 0.5s;
+}
+
+button:hover {
+    background: #000;
 }
